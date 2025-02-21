@@ -1,0 +1,16 @@
+{
+    "games": [
+      {
+        "id": "1",
+        "name": "Ngala Mac"
+      }
+    ],
+    "scores": [
+      {
+        "id": 1,
+        "gameId": "1",
+        "user": "Ngala Mac",
+        "score": 42
+      }
+    ]
+  }
