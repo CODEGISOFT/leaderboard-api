@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-     "start": "json-server db.json --port 3000",
     "deploy": "git push origin main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
