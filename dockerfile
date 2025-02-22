@@ -11,7 +11,7 @@ RUN npm install -g json-server
 COPY db.json ./
 
 # Expose the port that JSON Server runs on
-EXPOSE 3000
+EXPOSE 2000
 
 # Start JSON Server
 CMD ["json-server", "--watch", "db.json", "--host", "0.0.0.0"]
